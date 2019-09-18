@@ -2,10 +2,10 @@ package lambton;
 
 public class FirstDay {
 
-    public static void runfirst()
-    {
-        System.out.println("Sanjeev first");
-    }
+    //public static void runfirst()
+//    {
+//        System.out.println("Sanjeev first");
+//    }
     public static void main(String[] args) {
 
         //variable assigned
