@@ -15,7 +15,7 @@ public class FirstDay {
         //printed the output
         System.out.println("output"+(a+b));
 
-        System.out.println("Max integer value"+Integer.MAX_VALUE);
-        System.out.println("min integer value"+Integer.MIN_VALUE);
+        System.out.println("Max integer value"+Integer.MAX_VALUE);// printing the integer max value
+        System.out.println("min integer value"+Integer.MIN_VALUE);// printinh the integer min value
     }
 }
