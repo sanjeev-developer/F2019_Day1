@@ -17,5 +17,8 @@ public class FirstDay {
 
         System.out.println("Max integer value"+Integer.MAX_VALUE);// printing the integer max value
         System.out.println("min integer value"+Integer.MIN_VALUE);// printinh the integer min value
+
+        Student student = new Student();
+        student.studentdata();
     }
 }
