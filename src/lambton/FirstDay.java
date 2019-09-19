@@ -19,7 +19,7 @@ public class FirstDay {
         System.out.println("min integer value"+Integer.MIN_VALUE);// printinh the integer min value
 
         Student student = new Student();
-        student.studentdata();
+
 
         Student studenttwo = new Student();
         studenttwo.studentid = 2;
@@ -30,6 +30,8 @@ public class FirstDay {
         studentthree.studentid = 3;
         studentthree.studentname = "rajesh";
         student.display();
+
+        student.studentdata();
 
         for(int i=0; i<10; i++)
         {
