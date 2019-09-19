@@ -20,5 +20,20 @@ public class FirstDay {
 
         Student student = new Student();
         student.studentdata();
+
+        Student studenttwo = new Student();
+        studenttwo.studentid = 2;
+        studenttwo.studentname = "rajeev";
+        student.display();
+
+        Student studentthree = new Student();
+        studentthree.studentid = 3;
+        studentthree.studentname = "rajesh";
+        student.display();
+
+        for(int i=0; i<10; i++)
+        {
+            System.out.println("sanjeev");
+        }
     }
 }
